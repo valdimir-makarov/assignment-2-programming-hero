@@ -115,6 +115,7 @@ body {
     background-color: rgba(78, 197, 247, 1);
 }
 .left-text-1{
+    background-image: url(images/background.png);
     text-align: center;
     margin-left: 30px;
 }
@@ -228,6 +229,9 @@ color:rgba(135, 88, 241, 1)
 }
 .right-pics-3>img{
     width: 500px;
+    margin-right: -76px;
+   
+    margin-left: 150px;
        /* text-align: center;
        position: relative;
        bottom: 100px;
@@ -239,7 +243,7 @@ color:rgba(135, 88, 241, 1)
  width: 200px;
     text-align: center;
        position: relative;
-       bottom: 100px;
+       bottom: 180px;
        border-radius: 8px;
        padding: 40px 
 
